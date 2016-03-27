@@ -4,5 +4,5 @@
 
 #### A Shiny application is created and deployed at https://wayneleung555.shinyapps.io/project/
 
-#### A RStudio Presenter file is created at https://github.com/wayneleung555/DevelopingDataProducts/edit/master/README.md
+#### A RStudio Presenter file is created at https://github.com/wayneleung555/DevelopingDataProducts
 
