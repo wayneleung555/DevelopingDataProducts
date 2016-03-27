@@ -44,4 +44,4 @@ shinyUI(pageWithSidebar(
 ))
 
 
-?mtcars
+
